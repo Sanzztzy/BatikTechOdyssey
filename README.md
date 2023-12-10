@@ -1,0 +1,2 @@
+# BatikTechOdyssey
+Pengembangan gim
